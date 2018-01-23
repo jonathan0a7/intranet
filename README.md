@@ -86,7 +86,7 @@ per avviare il server con porta :3000
 Initial Release
 
 ### Authors
-[jonathanderewith](http://twitter.com/jon.derewith)
+[jonathanderewith](http://twitter.com/jonderewith)
 ### License
 
 0a7 is licensed under The MIT License (MIT). Which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the final products. But you always need to state that Colorlib is the original author of this template.
